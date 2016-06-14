@@ -1,8 +1,5 @@
 <?php
 /**
- *  Desasdvsdcsdc dscdscdscdsc dscdscsdcsd c
- *  lds,flsd,flsd,flsdlfsld,flds,fs
- *
  * @category  General
  * @package   Default
  * @author    Tamnil Saito Junior <tamnil@gmail.com>
